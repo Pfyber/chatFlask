@@ -13,7 +13,7 @@ from tinydb import TinyDB, Query
 from datetime import datetime
 import os
 
-# Ustvarimo Flask aplikacijo
+# Ustvarimo Flask aplikacijo - 
 # Flask je mikro ogrodje za spletne aplikacije v Pythonu
 # Več info: https://flask.palletsprojects.com/
 app = Flask(__name__)
