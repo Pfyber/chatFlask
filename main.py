@@ -54,7 +54,7 @@ def index():
 
 # ---- RAZLAGA: HTTP Methods ----
 # methods=['GET', 'POST'] pove Flask-u, da ta pot sprejema tako GET kot POST zahteve
-# GET: Pridobi stran (običajno prikaz obrazca)
+# GET: Pridobi stran (običajno prikaz obrazca/forme)
 # POST: Pošlji podatke na strežnik (običajno oddaja obrazca)
 # Več info: https://flask.palletsprojects.com/en/2.0.x/quickstart/#http-methods
 # --------------------------
